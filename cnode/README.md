@@ -16,9 +16,9 @@ try run
 flutter doctor
 ```
 
-![avatar](/imgs/1.png)
+![avatar](./imgs/1.png)
 
-![avatar](/imgs/2.png)
+![avatar](./imgs/2.png)
 
 ## Getting Started
 
